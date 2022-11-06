@@ -1,0 +1,7 @@
+input {
+    width: 250px;
+}
+
+input.submit {
+    width: auto;
+}
